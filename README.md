@@ -5,7 +5,7 @@ A Python utility to scrape and export your Divvy bike data to .csv
 
 1. Create a virtual environment by navigating into the project directory and running the following command:
 ```
-python -m venv my_env
+python3 -m venv my_env
 ```
 
 2. Install the necessary Python libraries from `requirements.txt` by executing the following:
