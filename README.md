@@ -1,4 +1,7 @@
 # Divvy-Bikes-Scraper
+
+![image](https://user-images.githubusercontent.com/44789534/162628460-c75272bf-42a8-4a21-9e63-edabfe0a4a3f.png)
+
 A Python utility to scrape and export your Divvy bike data to .csv
 
 ## Instructions
