@@ -2,7 +2,11 @@
 
 ![image](https://user-images.githubusercontent.com/44789534/162628460-c75272bf-42a8-4a21-9e63-edabfe0a4a3f.png)
 
-A Python utility to scrape and export your Divvy bike data to .csv
+Divvy-Bikes-Scraper is a command-line tool that allows Divvy bike members to scrape their ride data from the Divvy website and export it to a CSV file. Divvy, which is operated by Lyft, does not have a public API for accessing ride data, so this tool utilizes reverse engineering techniques to make the necessary GraphQL requests.
+
+To use the tool, users will need to have a Divvy account and provide their login credentials. The tool will then scrape the ride data from the Divvy website and export it to a CSV file, which can be opened with a spreadsheet program like Microsoft Excel or Google Sheets. The CSV file will include information such as the start and end dates of each ride, the start and end stations, the duration of the ride, as well as ride distance.
+
+It was built using the Python programming language and utilizes the Requests library for web scraping. The GraphQL requests were reverse engineered using the Network tab in Chrome Dev Tools. 
 
 ## Instructions
 
