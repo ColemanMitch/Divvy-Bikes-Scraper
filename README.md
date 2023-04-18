@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 ```
 
 3. Navigate to https://account.divvybikes.com/ride-history and log into your Divvy Bikes account
-4. Open up your browswer's dev tools and navigate to the Network tab
+4. Open up your browser's dev tools and navigate to the Network tab
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/44789534/160257650-733f8b5f-e793-4d01-8e02-2c2f290436f8.png">
 
@@ -44,5 +44,5 @@ TODO
 
 - [x] Create `.env` file for authoirzation bearer token
 - [x] Create `requirements.txt` file
-- [ ] Clean up `script.py`
+- [x] Clean up `script.py`
 - [x] Write up instructions to run with screenshots in `README.md`
